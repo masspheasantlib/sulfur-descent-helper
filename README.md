@@ -25,7 +25,7 @@ All modules work flawlessly in single-player. Works on Steam.
 
 ## 📖 The Story Behind the Cheat
 
-SULFUR launched in **Early Access in 2024** as Perfect Random's **roguelike extraction shooter** — a game where you play a priest hunting a witch who burned down your church, descending into caves and forests full of goblins and monsters. With **deep weapon customization**, **extraction mechanics**, and **a unique risk-reward loop**, it became one of the most innovative roguelikes of the decade [citation:10].
+SULFUR launched in **Early Access in 2024** as Perfect Random's **roguelike extraction shooter** — a game where you play a priest hunting a witch who burned down your church, descending into caves and forests full of goblins and monsters. With **deep weapon customization**, **extraction mechanics**, and **a unique risk-reward loop**, it became one of the most innovative roguelikes of the decade.
 
 But SULFUR is **brutal**. The **ammo economy** is tight. The **enemies** hit hard. The **extraction risk** means every death costs you your gear. The **grind for coins** takes forever. For players who want to **survive the descent** without the endless frustration, this cheat was built.
 
@@ -47,25 +47,25 @@ But SULFUR is **brutal**. The **ammo economy** is tight. The **enemies** hit har
 ## 🔥 Features
 
 **Survival:**
-- **Unlimited Health** — HP never decreases [citation:2][citation:5]
-- **God Mode** — Complete immunity to all damage [citation:3]
-- **Quick Kill** — Eliminate any enemy instantly [citation:5][citation:8]
+- **Unlimited Health** — HP never decreases
+- **God Mode** — Complete immunity to all damage
+- **Quick Kill** — Eliminate any enemy instantly
 
 **Combat:**
-- **Unlimited Ammo** — Never run out of bullets [citation:2][citation:3][citation:5]
-- **No Reload** — Weapons never need reloading [citation:2]
-- **Speedhack** — Ctrl+ / Ctrl- speed control [citation:3][citation:5]
+- **Unlimited Ammo** — Never run out of bullets
+- **No Reload** — Weapons never need reloading
+- **Speedhack** — Ctrl+ / Ctrl- speed control
 
 **Economy:**
-- **Unlimited Coins** — Money never decreases [citation:2][citation:3][citation:5]
+- **Unlimited Coins** — Money never decreases
 
 **Movement:**
-- **Set Player Speed** — Customizable movement speed [citation:2]
-- **Set Player Jump Height** — Custom jump height [citation:2]
+- **Set Player Speed** — Customizable movement speed
+- **Set Player Jump Height** — Custom jump height
 
 **Utility:**
-- **Force Pause** — Freeze the game completely [citation:3][citation:5]
-- **Set Game Speed** — Adjust overall game speed [citation:2]
+- **Force Pause** — Freeze the game completely
+- **Set Game Speed** — Adjust overall game speed
 - **Config System** — Save and load unlimited profiles
 
 ---
@@ -91,26 +91,26 @@ The cheat ships with a full-featured config system — every setting can be save
 
 | Module | Status | Description |
 |--------|--------|-------------|
-| Unlimited Health | ✅ | Never decreases [citation:2] |
-| God Mode | ✅ | No damage [citation:3] |
-| Quick Kill | ✅ | Instant kill [citation:5] |
-| Unlimited Ammo | ✅ | Never run out [citation:2] |
-| No Reload | ✅ | No reloading [citation:2] |
-| Speedhack | ✅ | Ctrl+/- control [citation:3] |
-| Unlimited Coins | ✅ | Never decreases [citation:2] |
-| Set Player Speed | ✅ | Custom speed [citation:2] |
-| Set Player Jump Height | ✅ | Custom height [citation:2] |
-| Force Pause | ✅ | Freeze game [citation:3] |
-| Set Game Speed | ✅ | Adjust speed [citation:2] |
+| Unlimited Health | ✅ | Never decreases |
+| God Mode | ✅ | No damage |
+| Quick Kill | ✅ | Instant kill |
+| Unlimited Ammo | ✅ | Never run out |
+| No Reload | ✅ | No reloading |
+| Speedhack | ✅ | Ctrl+/- control |
+| Unlimited Coins | ✅ | Never decreases |
+| Set Player Speed | ✅ | Custom speed |
+| Set Player Jump Height | ✅ | Custom height |
+| Force Pause | ✅ | Freeze game |
+| Set Game Speed | ✅ | Adjust speed |
 | Config System | ✅ | Save/load profiles |
 
 ---
 
 ## 📜 Changelog
 
-**v0.19.10** — Updated for SULFUR Steam v0.19.10. Added Unlimited Health, Quick Kill, Unlimited Ammo, Unlimited Coins, Force Pause, Speedhack [citation:5][citation:8][citation:11].
+**v0.19.10** — Updated for SULFUR Steam v0.19.10. Added Unlimited Health, Quick Kill, Unlimited Ammo, Unlimited Coins, Force Pause, Speedhack.
 
-**v0.19.0** — Initial release. Unlimited Health, Set Player Speed, Set Player Jump Height, Unlimited Coins, No Reload, Set Game Speed [citation:2].
+**v0.19.0** — Initial release. Unlimited Health, Set Player Speed, Set Player Jump Height, Unlimited Coins, No Reload, Set Game Speed.
 
 ---
 
@@ -178,9 +178,9 @@ The cheat ships with a full-featured config system — every setting can be save
 
 **Q: The .exe doesn't open — what do I do?** — Run as Administrator. Add to antivirus exclusions.
 
-**Q: What is SULFUR?** — A roguelike extraction shooter from Perfect Random, released in Early Access in 2024 [citation:10].
+**Q: What is SULFUR?** — A roguelike extraction shooter from Perfect Random, released in Early Access in 2024.
 
-**Q: What is Speedhack?** — A feature that lets you adjust game speed with Ctrl+ and Ctrl- [citation:3].
+**Q: What is Speedhack?** — A feature that lets you adjust game speed with Ctrl+ and Ctrl-.
 
 **Q: Will this break achievements?** — No, cheats generally don't disable achievements.
 
